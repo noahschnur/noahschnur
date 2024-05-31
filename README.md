@@ -8,6 +8,4 @@ Skilled in data analysis, quality assurance, and data evaluation
 
 Excited for a career change to a career path filled with opportunities to grow personally and to provide unique solutions to unique challenges
 
-You can view my portfolio at https://noahschnur.github.io/noah-schnur-portfolio/
-
 Email me at noahschnur@gmail.com
