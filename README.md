@@ -42,6 +42,11 @@ Excited for a career change to a career path filled with opportunities to grow p
 
 Email me at noahschnur@gmail.com
 
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 Gmail icons created by Freepik - Flaticon
