@@ -45,4 +45,4 @@ Email me at noahschnur@gmail.com
 
 Gmail icons created by Freepik - Flaticon
 
-![gmail](https://github.com/noahschnur/noahschnur/assets/77124652/f9ce3b0c-e74e-489b-949e-f14452ee9473)
+
