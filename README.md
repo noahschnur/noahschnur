@@ -26,11 +26,3 @@
 
 [email]: noahschnur@gmail.com
 [linkedin]: https://www.linkedin.com/in/noahschnur
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-Gmail icon created by Freepik - Flaticon
