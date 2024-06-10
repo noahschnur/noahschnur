@@ -18,7 +18,7 @@
     
 <h2> 🤳 Connect with me:</h2>
 
-[<a href="https://www.flaticon.com/free-icons/gmail" title="gmail icons">Gmail icons created by Freepik - Flaticon</a>][email]
+[<a href="https://www.flaticon.com/free-icons/gmail" title="gmail icons"></a>][email]
 [<a href="https://www.linkedin.com/in/noahschnur" style="color: #0077B5; border: 1px solid #0077B5;">
   <img align="left" alt="yourname | LinkedIn" width="52px" src="https://pngmind.com/wp-content/uploads/2019/08/Linkedin-Logo-Png-Transparent-Background-1.png" />
 </a>][linkedin]
