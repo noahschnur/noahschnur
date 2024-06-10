@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jeramiah Poff! <a href="https://www.linkedin.com/in/yourlinkedin/"> </a>
+<h1>Hi, I'm Noah Schnur! <a href="https://www.linkedin.com/in/noahschnur"> </a>
 
 <h2>👨‍💻 Helpdesk Projects:</h2>
 
@@ -23,10 +23,8 @@
 [<img align="left" alt="yourname | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="yourname | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/
-[youtube]: https://www.youtube.com/c/
-[instagram]: https://www.instagram.com/
-[linkedin]: https://linkedin.com/in/jeramiahpoff
+[email]: noahschnur@gmail.com
+[linkedin]: https://www.linkedin.com/in/noahschnur
 
 Cyber Security enthusiast skilled at providing high quality and detailed work on time
 
