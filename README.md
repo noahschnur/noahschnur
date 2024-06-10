@@ -19,8 +19,7 @@
 <h2> 🤳 Connect with me:</h2>
 
 [<a href="" title="gmail icons">
-  <img align="left" alt="yourname | Gmail" width="52px" src="![gmail](https://github.com/noahschnur/noahschnur/assets/77124652/0227d3ea-0a5f-42a2-a1f1-f9e51ec28d0f)
-" /></a>][email]
+  <img align="left" alt="yourname | Gmail" width="52px" src="![gmail](https://github.com/noahschnur/noahschnur/assets/77124652/f9ce3b0c-e74e-489b-949e-f14452ee9473)" /></a>][email]
 [<a href="https://www.linkedin.com/in/noahschnur" style="color: #0077B5; border: 1px solid #0077B5;">
   <img align="left" alt="yourname | LinkedIn" width="52px" src="https://pngmind.com/wp-content/uploads/2019/08/Linkedin-Logo-Png-Transparent-Background-1.png" />
 </a>][linkedin]
@@ -45,3 +44,5 @@ Excited for a career change to a career path filled with opportunities to grow p
 Email me at noahschnur@gmail.com
 
 Gmail icons created by Freepik - Flaticon
+
+![gmail](https://github.com/noahschnur/noahschnur/assets/77124652/f9ce3b0c-e74e-489b-949e-f14452ee9473)
