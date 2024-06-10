@@ -20,11 +20,14 @@
 
 <a href="https://twitter.com/adedeji_i2213"><img align="left" alt="yourname | Email" width="52px" src="https://static.dezeen.com/uploads/2023/07/x-logo-twitter-elon-musk_dezeen_2364_col_0.jpg" /></a>
 <a href="https://www.flaticon.com/free-icons/gmail" title="gmail icons">Gmail icons created by Freepik - Flaticon</a>
-<a href="https://www.linkedin.com/in/noahschnur" style="color: #0077B5; border: 1px solid #0077B5;">
+[<a href="https://www.linkedin.com/in/noahschnur" style="color: #0077B5; border: 1px solid #0077B5;">
   <img align="left" alt="yourname | LinkedIn" width="52px" src="https://pngmind.com/wp-content/uploads/2019/08/Linkedin-Logo-Png-Transparent-Background-1.png" />
-</a>
+</a>][linkedin]
+
+[<img align="left" alt="yourname | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [email]: noahschnur@gmail.com
+[linkedin]: https://www.linkedin.com/in/noahschnur
 <br>
 
 Cyber Security enthusiast skilled at providing high quality and detailed work on time
