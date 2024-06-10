@@ -29,6 +29,8 @@
 [linkedin]: https://www.linkedin.com/in/noahschnur
 <br>
 <br>
+<br>
+<br>
 
 Cyber Security enthusiast skilled at providing high quality and detailed work on time
 
