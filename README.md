@@ -24,7 +24,7 @@
   <img align="left" alt="yourname | LinkedIn" width="52px" src="https://pngmind.com/wp-content/uploads/2019/08/Linkedin-Logo-Png-Transparent-Background-1.png" />
 </a>][linkedin]
 
-[email]: noahschnur@gmail.com
+[email]: mailto:noahschnur@gmail.com
 [linkedin]: https://www.linkedin.com/in/noahschnur
 <br>
 <br>
