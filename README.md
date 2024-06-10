@@ -29,7 +29,6 @@
 <br>
 <br>
 <br>
-<br>
 
 Cyber Security enthusiast skilled at providing high quality and detailed work on time
 
