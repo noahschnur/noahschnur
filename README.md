@@ -32,5 +32,4 @@
 <br>
 <br>
 <br>
-<span style="font-size:0.5em;">Gmail icons created by Freepik - Flaticon</span>
-Gmail icons created by Freepik - Flaticon
+<span style="font-size:0.5;">Gmail icons created by Freepik - Flaticon</span>
