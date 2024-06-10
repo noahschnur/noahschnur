@@ -46,7 +46,5 @@ Email me at noahschnur@gmail.com
 <br>
 <br>
 <br>
-<br>
-<br>
 
 Gmail icons created by Freepik - Flaticon
