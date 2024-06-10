@@ -18,10 +18,12 @@
     
 <h2> 🤳 Connect with me:</h2>
 
+[<img align="left" alt="yourname | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][email]
 [<img align="left" alt="yourname | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [email]: noahschnur@gmail.com
 [linkedin]: https://www.linkedin.com/in/noahschnur
+<br>
 
 Cyber Security enthusiast skilled at providing high quality and detailed work on time
 
