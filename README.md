@@ -18,7 +18,9 @@
     
 <h2> 🤳 Connect with me:</h2>
 
-[<a href="http://www.w3.org/2000/svg" title="gmail icons"></a>][email]
+[<a href="" title="gmail icons">
+  <img align="left" alt="yourname | Gmail" width="52px" src="![gmail](https://github.com/noahschnur/noahschnur/assets/77124652/0227d3ea-0a5f-42a2-a1f1-f9e51ec28d0f)
+" /></a>][email]
 [<a href="https://www.linkedin.com/in/noahschnur" style="color: #0077B5; border: 1px solid #0077B5;">
   <img align="left" alt="yourname | LinkedIn" width="52px" src="https://pngmind.com/wp-content/uploads/2019/08/Linkedin-Logo-Png-Transparent-Background-1.png" />
 </a>][linkedin]
