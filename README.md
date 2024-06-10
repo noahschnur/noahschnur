@@ -30,5 +30,7 @@
 <br>
 <br>
 <br>
-
+<br>
+<br>
+<span style="font-size:0.5em;">Gmail icons created by Freepik - Flaticon</span>
 Gmail icons created by Freepik - Flaticon
