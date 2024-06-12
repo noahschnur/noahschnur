@@ -2,20 +2,14 @@
 
 <h2>👨‍💻 Helpdesk Projects:</h2>
 
-  - [Helpdesk 1](Link)
-  - [Link Title](Link) <b><i>(Additional Information)</b></i>
-  - [Link Title](Link) <b><i>(Additional Information)</b></i>
+
 
 <h2>🛡️ Information Security Projects</h2>
 
- - [Link Title](Link)
   
 <h2>📜 Certifications:</h2>
 
-  - [CISSP](https://www.credly.com/earner/earned/badge/83328a43-2b41-4be4-82c5-414f6228617c)
-  - [Security+](https://www.credly.com/earner/earned/badge/fc1776cc-e449-4175-812e-9c8783c16e07)
-  - [ACE](https://www.credly.com/earner/earned/badge/8f23544f-0d78-4345-9b1e-74c22f241256)
-    
+ 
 <h2> 🤳 Connect with me:</h2>
 
 [<a href="mailto:noahschnur@gmail.com" title="gmail icon_created_by_Freepik_Flaticon">
