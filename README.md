@@ -9,7 +9,7 @@
   
 <h2>📜 Certifications:</h2>
 
-   - [Qualys CLoud Agent](https://github.com/noahschnur/pdfs/blob/main/Cloud_Agent.pdf)
+   - [Qualys Cloud Agent](https://github.com/noahschnur/pdfs/blob/main/Cloud_Agent.pdf)
   - [Qualys File Integrity Management](https://github.com/noahschnur/pdfs/blob/main/File_Integrity_Monitoring.pdf)
   - [Qualys Patch Management](https://github.com/noahschnur/pdfs/blob/main/Patch_Management.pdf)
      
