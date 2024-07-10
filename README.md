@@ -4,7 +4,7 @@
 
 
 
-<h2>🛡️ Information Security Projects</h2>
+<h2>🛡️ Information Security Projects:</h2>
 
   
 <h2>📜 Certifications:</h2>
