@@ -2,10 +2,8 @@
 
 <h2>:computer: Web Applications:</h2>
 
-
-
-<h2>🛡️ Information Security Projects:</h2>
-
+  - [Employee Tracking App](https://github.com/noahschnur/employeetracker)
+  - [Social Network App](https://github.com/noahschnur/social-network-api)
   
 <h2>📜 Certifications:</h2>
 
