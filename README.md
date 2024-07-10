@@ -8,7 +8,7 @@
 
   
 <h2>📜 Certifications:</h2>
-[Qualys Cloud Agent](https://github.com/noahschnur/pdfs/blob/main/Cloud_Agent.pdf)
+ - [Qualys Cloud Agent](https://github.com/noahschnur/pdfs/blob/main/Cloud_Agent.pdf)
  
 <h2> 🤳 Connect with me:</h2>
 
