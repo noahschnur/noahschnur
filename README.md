@@ -1,6 +1,6 @@
 <h1>Hi, I'm Noah Schnur! <a href="https://www.linkedin.com/in/noahschnur"> </a>
 
-<h2>👨‍💻 Helpdesk Projects:</h2>
+<h2>:computer: Web Applications:</h2>
 
 
 
