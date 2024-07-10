@@ -8,7 +8,11 @@
 
   
 <h2>📜 Certifications:</h2>
- - [Qualys Cloud Agent](https://github.com/noahschnur/pdfs/blob/main/Cloud_Agent.pdf)
+
+   - [Qualys Vulnerability Management Detection & Response(VMDR)](https://github.com/jsom98/Certifications/blob/main/Vulnerability%20Management%20Detection%20and%20Response.pdf)
+  - [Qualys CyberSecurity Asset Management (CSAM)](https://github.com/jsom98/Certifications/blob/main/Cyber%20Security%20Asset%20Management.pdf)
+  - [](https://github.com/jsom98/Certifications/blob/main/Cloud%20Agent.pdf)
+     
  
 <h2> 🤳 Connect with me:</h2>
 
