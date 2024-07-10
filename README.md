@@ -9,7 +9,7 @@
   
 <h2>📜 Certifications:</h2>
 
-   - [Qualys Vulnerability Management Detection & Response(VMDR)](https://github.com/jsom98/Certifications/blob/main/Vulnerability%20Management%20Detection%20and%20Response.pdf)
+   - [Qualys CLoud Agent](https://github.com/noahschnur/pdfs/blob/main/Cloud_Agent.pdf)
   - [Qualys CyberSecurity Asset Management (CSAM)](https://github.com/jsom98/Certifications/blob/main/Cyber%20Security%20Asset%20Management.pdf)
   - [](https://github.com/jsom98/Certifications/blob/main/Cloud%20Agent.pdf)
      
